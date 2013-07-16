@@ -24,5 +24,6 @@ core['console'] = require.resolve('console-browserify');
 core['zlib'] = require.resolve('zlib-browserify');
 core['buffer'] = require.resolve('buffer-browserify');
 core['net'] = require.resolve('siob/lib/wnet');
+core['stream'] = require.resolve('stream-browserify');
 
 module.exports = core;
