@@ -23,7 +23,7 @@ core['crypto'] = require.resolve('crypto-browserify');
 core['console'] = require.resolve('console-browserify');
 core['zlib'] = require.resolve('zlib-browserify');
 core['buffer'] = require.resolve('buffer-browserify');
-core['net'] = require.resolve('siob/lib/wnet');
+core['net'] = require.resolve('webip/lib/client/net');
 core['stream'] = require.resolve('stream-browserify');
 
 module.exports = core;
