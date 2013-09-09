@@ -14,8 +14,8 @@
   "author": "Alex Gorbatchev <alex.gorbatchev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "webip": "git+http://rafael@husio.local/git/webip.git",
-    "stream-browserify": "git+http://rafael@husio.local/git/stream-browserify.git",
+    "webip": "git+http://rafael@git.local/git/webip.git",
+    "stream-browserify": "git+http://rafael@git.local/git/stream-browserify.git",
     "resolve": "0.3.1",
     "punycode": "1.2.2",
     "console-browserify": "0.1.6",
