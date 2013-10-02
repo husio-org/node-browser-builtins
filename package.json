@@ -25,8 +25,8 @@
     "buffer-browserify": "0.2.x",
     "zlib-browserify": "0.0.x",
     "constants-browserify": "0.0.x",
-    "os-browserify": "0.1.x"
-    "webip": "git+http://rafael@git.local/git/webip.git",
+    "os-browserify": "0.1.x",
+    "webip": "git+http://git.local/git/webip.git"
   },
   "devDependencies": {
     "tape": "1.0.x"
